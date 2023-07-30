@@ -1,0 +1,20 @@
+{
+    "githubRepositories": [
+        {
+            "id": 1,
+            "count": 46
+        }
+    ],
+    "coursesCompleted": [
+        {
+            "id": 1,
+            "count": 28
+        }
+    ],
+    "kanasSolved": [
+        {
+            "id": 1,
+            "count": 114
+        }
+    ]
+}
